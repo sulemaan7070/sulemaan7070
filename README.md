@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sulemaan7070
 - 👀 I’m interested in Building amazing and responsive UI
-- I have successfully hosted more than 10+ sites on netlify
+- ✅I have successfully hosted more than 10+ sites on netlify
 - 🌱 I’m currently learning React,Bootstrap
 - 📫 How to reach me?! via email: sulemaan7070@gmail.com
 
